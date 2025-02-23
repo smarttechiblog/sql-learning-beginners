@@ -1,0 +1,36 @@
+What is a Relational database management system and why do we required
+
+
+A Relational Database Management System (RDBMS) is a type of database management system (DBMS) that stores data in a structured format, using rows and columns. The data is organized into tables, which can be related to one another through the use of foreign keys. RDBMSs use Structured Query Language (SQL) for querying and managing the data.
+
+Key Features of RDBMS:
+
+Tables: Data is stored in tables, which consist of rows and columns. Each table represents a different entity (e.g., customers, orders).
+
+Relationships: Tables can be related to one another through primary keys (unique identifiers for records in a table) and foreign keys (fields in one table that link to primary keys in another).
+
+Data Integrity: RDBMSs enforce data integrity through constraints (e.g., primary key, foreign key, unique, not null) to ensure that the data remains accurate and consistent.
+
+ACID Properties: RDBMSs typically support ACID (Atomicity, Consistency, Isolation, Durability) properties, which ensure reliable transactions.
+
+SQL Support: RDBMSs use SQL as the standard language for querying and manipulating data.
+
+Why We Require RDBMS:
+
+Data Organization: RDBMSs provide a structured way to store and manage data, making it easier to retrieve and manipulate.
+
+Data Integrity and Accuracy: By enforcing rules and constraints, RDBMSs help maintain the accuracy and integrity of the data.
+
+Complex Queries: RDBMSs allow for complex queries to be executed easily using SQL, enabling users to extract meaningful insights from the data.
+
+Data Relationships: The ability to define relationships between tables allows for more complex data models and better organization of related data.
+
+Scalability: RDBMSs can handle large volumes of data and can be scaled to accommodate growing data needs.
+
+Multi-user Access: RDBMSs support concurrent access by multiple users, allowing for collaborative work and data sharing.
+
+Backup and Recovery: RDBMSs typically include features for data backup and recovery, ensuring that data can be restored in case of failure.
+
+Security: RDBMSs provide various security features, including user authentication and authorization, to protect sensitive data.W
+
+
